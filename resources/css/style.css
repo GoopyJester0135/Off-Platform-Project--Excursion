@@ -1,4 +1,5 @@
 body{
+    
     background-color: black;
     text-align: center;
 }
@@ -6,28 +7,37 @@ body{
 a{
     color: aquamarine;
     font-size: 16px;
+    align-self: top;
 }
+ p{
+    font-family: Verdana;
+    color: white;
+ }
 
 img{
-    
+    margin: 10px;
 }
 
 .top{
-
+    font-weight: normal;
+    font-size: 50px;
 }
 
 .middle{
-
+    font-weight: 300;
+    font-size: 42px;
 }
 
 .small{
-
+    font-size: 21px;
+    color: gray;
 }
 
 .bottom{
-
+    font-weight: 300;
+    font-size: 42px;
 }
 
 #video{
-    
+
 }
