@@ -14,6 +14,12 @@ a{
     color: white;
  }
 
+ footer{
+    text-align: right;
+ }
+ footer p{
+    color: gray;
+ }
 img{
     margin: 10px;
 }
